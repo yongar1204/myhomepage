@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  /* text-align: center; */
+}
+th,td{
+  text-align: center;
+}
+.text-right{
+  margin-top: 10px;
+}
